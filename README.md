@@ -1,2 +1,1 @@
-# stepik_auto_tests_course
-first_project
+Репозиторий для хранения проекта по учебному курсу "Автоматизация тестирования с помощью Selenium и Python"
